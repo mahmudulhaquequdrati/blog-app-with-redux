@@ -11,7 +11,7 @@ const initialState = [
   {
     title: "Boost your conversion rate 2",
     img: "https://images.unsplash.com/photo-1547586696-ea22b4d4235d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1679&q=80",
-    category: "article 2",
+    category: "blog",
     date: "11 Jul, 2022.",
     timeToRead: "7 min read",
     author: "Learn with Sumit 2",
@@ -20,7 +20,7 @@ const initialState = [
   {
     title: "Boost your conversion rate 3",
     img: "https://images.unsplash.com/photo-1547586696-ea22b4d4235d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1679&q=80",
-    category: "article 3",
+    category: "development",
     date: "11 Jul, 2022.",
     timeToRead: "8 min read",
     author: "Learn with Sumit 3",
@@ -29,7 +29,7 @@ const initialState = [
   {
     title: "Boost your conversion rate 2",
     img: "https://images.unsplash.com/photo-1547586696-ea22b4d4235d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1679&q=80",
-    category: "article 2",
+    category: "article",
     date: "11 Jul, 2022.",
     timeToRead: "6 min read",
     author: "Learn with Sumit 2",
@@ -38,7 +38,7 @@ const initialState = [
   {
     title: "Boost your conversion rate 1",
     img: "https://images.unsplash.com/photo-1547586696-ea22b4d4235d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1679&q=80",
-    category: "article 1",
+    category: "blog",
     date: "11 Jul, 2022.",
     timeToRead: "7 min read",
     author: "Learn with Sumit 1",
@@ -47,7 +47,7 @@ const initialState = [
   {
     title: "Boost your conversion rate 3",
     img: "https://images.unsplash.com/photo-1547586696-ea22b4d4235d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1679&q=80",
-    category: "article 3",
+    category: "marketing",
     date: "11 Jul, 2022.",
     timeToRead: "8 min read",
     author: "Learn with Sumit 3",

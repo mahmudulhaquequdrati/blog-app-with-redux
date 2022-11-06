@@ -8,7 +8,7 @@ import initialState from "./initialState";
 const blogReducer = (state = initialState, action) => {
   switch (action.type) {
     case CATEGORY_SELECT:
-      return state.filter((cat) => cat.category.includes(action.payload));
+      return state.filter((cat) => cat.category === action.payload);
 
     case AUTHOR_SELECT:
       return state.filter((cat) => cat.author.includes(action.payload));
